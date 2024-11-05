@@ -59,11 +59,3 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
     ```sh
     python src/model.py
     ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
