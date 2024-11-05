@@ -13,8 +13,8 @@
 
 This project aims to detect Personal Protective Equipment (PPE) kits in an automobile manufacturing environment using computer vision techniques.
 
-## Project Structure
-
+<!-- ## Project Structure 
+ 
 ```
 /c:/jupyter/Infosys Intern Project/Detect-the-PPE-Kit-in-Automobile-Manufacturing-Project/
 │
@@ -32,7 +32,7 @@ This project aims to detect Personal Protective Equipment (PPE) kits in an autom
 │
 ├── README.md
 └── requirements.txt
-```
+``` -->
 
 ## Installation
 
