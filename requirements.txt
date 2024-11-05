@@ -12,3 +12,24 @@ tensorflow-hub
 
 
 
+# Torch: PyTorch is an open-source machine learning library primarily used for deep learning applications. It provides a flexible and efficient platform for tensor computations and automatic differentiation.
+
+# Torchvision: Torchvision is a library that complements PyTorch by providing datasets, model architectures, and image transformations for computer vision tasks. It simplifies the process of training and testing computer vision models.
+
+# NumPy: NumPy is a fundamental library for numerical computing in Python, offering support for large multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on them. It serves as the foundation for many other scientific computing libraries in Python.
+
+# OpenCV-Python: OpenCV is an open-source computer vision and image processing library that provides a rich set of functions for image and video analysis. The Python bindings allow users to leverage OpenCV’s capabilities for real-time computer vision applications.
+
+# SciPy: SciPy is a scientific computing library built on NumPy, providing additional functionality for optimization, integration, interpolation, eigenvalue problems, and other mathematical tasks. It is widely used in scientific and engineering applications for its powerful algorithms.
+
+# Pillow: Pillow is a fork of the Python Imaging Library (PIL) that adds support for opening, manipulating, and saving various image file formats. It provides a simple and efficient way to work with images in Python, making it suitable for basic image processing tasks.
+
+# Matplotlib: Matplotlib is a plotting library for Python that enables the creation of static, animated, and interactive visualizations. It is widely used for data visualization in scientific computing, allowing users to produce high-quality graphs and figures.
+
+# PyYAML: PyYAML is a YAML parser and emitter for Python, allowing users to read and write YAML, a human-readable data serialization format. It is commonly used for configuration files and data exchange between languages with different data structures.
+
+# tqdm: Tqdm is a Python library that provides a fast, extensible progress bar for loops and iterators. It enhances user experience by visually indicating the progress of long-running operations in the console or graphical user interface.
+
+# TensorFlow: TensorFlow is an open-source machine learning framework developed by Google that enables the development and deployment of machine learning models. It supports a wide range of tasks, including deep learning and reinforcement learning, with a focus on scalability and performance.
+
+# TensorFlow Hub: TensorFlow Hub is a library for the publication, discovery, and consumption of reusable machine learning modules. It provides pre-trained models that can be easily integrated into TensorFlow projects, streamlining the model-building process.
