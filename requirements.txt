@@ -1,65 +1,35 @@
-torch
-torchvision
-numpy
-opencv-python
-scipy
-pillow
-matplotlib
+TensorFlow
+OpenCV-Python
+NumPy
+Matplotlib
+Albumentations
+Pandas
+Scikit-learn
+Tqdm
 PyYAML
-tqdm
-tensorflow
-tensorflow-hub
-pandas
-seaborn
-scikit-learn
-imageai
-albumentations
-Pillow
 Flask
-fastapi
-streamlit
-CocoAPI
-
+FastAPI
 
 
 # ------------------------------Here’s a brief description of each of the libraries you listed:--------------------------------
 
-# 1. Torch: An open-source machine learning library for deep learning with a focus on tensor computations and automatic differentiation.
-   
-# 2. Torchvision: A companion library to PyTorch that provides datasets, model architectures, and image transformations for computer vision.
+# TensorFlow - For building and training deep learning models.
 
-# 3. NumPy: A fundamental library for numerical computing in Python, supporting large multi-dimensional arrays and mathematical functions.
 
-# 4. OpenCV-Python: An open-source library for computer vision and image processing that provides numerous functions for image and video analysis.
+# OpenCV-Python - For image processing and computer vision tasks.
 
-# 5. SciPy: A scientific computing library built on NumPy, offering additional functionality for optimization, integration, and other mathematical tasks.
+# NumPy - For numerical operations and data manipulation.
 
-# 6. Pillow: A fork of the Python Imaging Library (PIL) that allows for easy image opening, manipulation, and saving in various formats.
+# Matplotlib - For visualizing detection results and performance metrics.
 
-# 7. Matplotlib: A plotting library for Python that enables the creation of static, animated, and interactive visualizations.
+# Albumentations - For image augmentation to enhance model robustness.
 
-# 8. PyYAML: A YAML parser and emitter for Python, facilitating reading and writing of YAML data formats.
+# Pandas - For data manipulation and handling structured data, such as annotations or CSV files.
 
-# 9. tqdm: A library that provides fast, extensible progress bars for loops and iterators, enhancing user experience during long operations.
+# Scikit-learn - For model evaluation and performance metrics (e.g., confusion matrix, classification reports).
 
-# 10. TensorFlow: An open-source machine learning framework developed by Google for building and deploying machine learning models.
+# Tqdm - For adding progress bars to loops during training or data processing.
 
-# 11. TensorFlow Hub: A library for publishing and consuming reusable machine learning modules, offering pre-trained models for integration.
+# PyYAML - For configuration management if you're using YAML files for model parameters or settings.
 
-# 12. Pandas: A data manipulation and analysis library that provides DataFrames for handling structured data efficiently.
-
-# 13. Seaborn: A statistical data visualization library based on Matplotlib, offering a high-level interface for attractive statistical graphics.
-
-# 14. Scikit-learn: A machine learning library providing simple and efficient tools for data mining and analysis, including various algorithms.
-
-# 15. ImageAI: A library that simplifies the implementation of computer vision tasks using pre-trained models for easy image analysis.
-
-# 16. Albumentations: An image augmentation library designed for applying various transformations to enhance deep learning model performance.
-
-# 17. Flask A lightweight web framework for Python aimed at building web applications quickly and easily.
-
-# 18. FastAPI: A modern web framework for building APIs with a focus on speed and performance, leveraging Python type hints.
-
-# 19. Streamlit: An open-source app framework that allows users to create interactive web applications for machine learning projects effortlessly.
-
-# 20. CocoAPI: A library for working with the COCO dataset, providing tools for loading and manipulating COCO annotations for object detection tasks.
+# Flask or FastAPI - For building a web interface if you plan to deploy the application.
